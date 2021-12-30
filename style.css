@@ -92,7 +92,7 @@ main .city i {
 }
 
 .tuto li {
-    box-shadow: 5px 5px 3x 1px grey;
+    box-shadow: 5px 5px 3px 1px grey;
     padding: 15px 20px;
     background-color: #f6f6f6;
     border-radius: 10px;
@@ -256,7 +256,7 @@ footer a {
 
 .menu1 h3::after {
     content: "";
-    height: 2,5px;
+    height: 2.5px;
     width: 30px;
     background-color: #99e2d0;
     position: absolute;
@@ -393,7 +393,7 @@ img {
 
 @keyframes quarter-spin {
     to {
-        transform: rotate(360);
+        transform: rotate(360deg);
     }
 }
 
@@ -484,7 +484,7 @@ p {
 
 @keyframes spin {
     to {
-        transform: rotate(360)
+        transform: rotate(360deg)
     }
 }
 
