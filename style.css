@@ -170,7 +170,6 @@ main .city i {
 
 .new {
     position: relative;
-    color: white;
 }
 
 .new::before {
