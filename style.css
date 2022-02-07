@@ -391,10 +391,11 @@ img {
 }
 
 .fas.fa-check:hover {
-  transform: rotate(180deg);
+  transform: rotate(-360deg);
 }
+
 .fas.fa-check {
-    transition: transform 0.5s ease 0s
+    transition: transform 0.5s ease 0s;
 }
 
 h4 {
