@@ -390,17 +390,11 @@ img {
     margin-right: 0;
 }
 
-@keyframes quarter-spin {
-    0% {
-        transform: rotate(-270deg);
-    }
-    100% {
-        transform: rotate(0);
-    } 
+.fas.fa-check:hover {
+    transform: rotate(180deg)
 }
-
-.fas fa-check:hover {
-    animation: quarterspin 0.5s ease-in-out;
+.fas.fa-check {
+    transition: transform 0.5s ease 0s
 }
 
 h4 {
