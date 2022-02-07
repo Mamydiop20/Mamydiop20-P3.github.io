@@ -406,7 +406,7 @@ h4 {
     overflow: hidden;
 }
 
-p {
+.menuItemsDescription p {
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
