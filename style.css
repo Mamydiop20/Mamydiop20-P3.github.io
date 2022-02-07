@@ -399,7 +399,7 @@ img {
     } 
 }
 
-.menuItems:hover .fas fa-check {
+.fas fa-check:hover {
     animation: quarterspin 0.5s ease-in-out;
 }
 
